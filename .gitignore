@@ -13,3 +13,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+rails_elfinder.sublime-project
+rails_elfinder.sublime-workspace
