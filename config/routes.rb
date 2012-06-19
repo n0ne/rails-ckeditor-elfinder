@@ -4,7 +4,7 @@ RailsElfinderCkeditor::Application.routes.draw do
 
 
   # get "fm/index"
-  root :to => 'fm#index'
+  root :to => 'editor#index'
   get "fm/index"
   match 'elfinder' => "fm#elfinder"
   
