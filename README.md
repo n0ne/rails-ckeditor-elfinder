@@ -22,7 +22,7 @@ About [elFinder](http://elfinder.org/)
           rails s
 
 
-* Open brawser:
+* Open browser:
 
 
           http://localhost:3000/
